@@ -21,3 +21,5 @@ void NewArray(string[] array1, string[] array2)
         }
     }
 }
+NewArray(array1, array2);
+PrintArray(array2);
